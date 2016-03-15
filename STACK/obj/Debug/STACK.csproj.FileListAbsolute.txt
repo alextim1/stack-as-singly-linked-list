@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\STACK\STACK\bin\Debug\STACK.exe.config
+C:\Users\ivy\Documents\GitHub\STACK\STACK\obj\Debug\STACK.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\STACK\STACK\bin\Debug\STACK.exe
+C:\Users\ivy\Documents\GitHub\STACK\STACK\bin\Debug\STACK.pdb
+C:\Users\ivy\Documents\GitHub\STACK\STACK\obj\Debug\STACK.exe
+C:\Users\ivy\Documents\GitHub\STACK\STACK\obj\Debug\STACK.pdb
